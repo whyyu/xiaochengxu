@@ -1,0 +1,7 @@
+<view>
+<view>
+<movable-area style='width:300px;height:400px;background:#ccc'>
+<movable-view style='width:100px;height:100px;background:yellow' direction='all'inertia='true' out-of-bounds='true' x='200px'damping='1'friction='100' disable='true' scale='true' >text</movable-view>
+</movable-area>
+</view>
+</view>
